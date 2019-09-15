@@ -9,27 +9,81 @@ title = "Skills"
 subtitle = ""
 
 # Showcase personal skills or business features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
+#
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "python"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
+  name = "Python"
+  description = "Intermediate"
+
 [[feature]]
-  icon = "chart-line"
+  icon = "hashtag"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "Bash"
+  description = "Beginner"
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  description = "Beginner"
+
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
+  description = "Intermediate"
+
+[[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Arch Linux"
+  description = "Intermediate"
+
+[[feature]]
+  icon = "shield-alt"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "PfSense"
+  description = "Intermediate"
+
+[[feature]]
+  icon = "ubuntu"
+  icon_pack = "fab"
+  name = "Ubuntu"
+  description = "Intermediate"
+
+[[feature]]
+  icon = "windows"
+  icon_pack = "fab"
+  name = "Windows"
+  description = "Intermediate"
+
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "Github"
+  description = " & CircleCI"
+
+[[feature]]
+  icon = "gitlab"
+  icon_pack = "fab"
+  name = "Gitlab"
+  description = "CI/CD"
+
+[[feature]]
+  icon = "jenkins"
+  icon_pack = "fab"
+  name = "Jenkins"
+  description = "Beginner"
+
+[[feature]]
+  icon = "adobe"
+  icon_pack = "fab"
+  name = "Premiere Pro"
+  description = "Beginner"
 
 +++
