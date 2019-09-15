@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Blog"
-  url = "https://guillaume.desusanne.com"
+  url = "https://blog.guillaume.desusanne.com"
   weight = 20
 
 [[main]]
