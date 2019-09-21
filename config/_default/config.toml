@@ -18,6 +18,8 @@ copyright = "&copy; {year} Guillaume de Susanne d'Epinay"
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
 
+enableRobotsTXT = true
+
 ############################
 ## Advanced options below ##
 ############################
