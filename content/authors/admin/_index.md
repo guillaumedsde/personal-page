@@ -19,7 +19,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 # TODO
-bio: "Hey" #My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: "Hey" #My research interests include distributed robotics, mobile computing and programmable matter.
 
 #interests:
 #- Open Source and its ideals
