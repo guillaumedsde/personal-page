@@ -14,10 +14,30 @@ subtitle = ""
 #
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
+
+
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
+  description = "Intermediate"
+
+[[feature]]
+  icon = "react"
+  icon_pack = "fab"
+  name = "ReactJS"
+  description = "Beginner"
+  
+[[feature]]
+  icon = "file-alt"
+  icon_pack = "fas"
+  name = "LaTeX"
+  description = "Intermediate"
+
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
   description = "Intermediate"
 
 [[feature]]
@@ -33,27 +53,15 @@ subtitle = ""
   description = "Beginner"
 
 [[feature]]
-  icon = "docker"
-  icon_pack = "fab"
-  name = "Docker"
-  description = "Intermediate"
-
-[[feature]]
   icon = "linux"
   icon_pack = "fab"
-  name = "Arch Linux"
-  description = "Intermediate"
+  name = "Linux"
+  description = "Arch, Ubuntu, Debian"
 
 [[feature]]
   icon = "shield-alt"
   icon_pack = "fas"
   name = "PfSense"
-  description = "Intermediate"
-
-[[feature]]
-  icon = "ubuntu"
-  icon_pack = "fab"
-  name = "Ubuntu"
   description = "Intermediate"
 
 [[feature]]
