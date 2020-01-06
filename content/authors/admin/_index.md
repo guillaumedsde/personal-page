@@ -71,7 +71,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: "http://cloud.desusanne.com/s/yZLtk42Lr6WZpXt"
+  link: "https://guillaumedsde.gitlab.io/curriculum-vitae/main.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
